@@ -2,7 +2,7 @@
 //  Tests_macOSLaunchTests.swift
 //  Tests macOS
 //
-//  Created by Amethyst Raven Sky Wyld on 08/01/2022.
+//  Created by Christian Ray Leovido on 08/01/2022.
 //
 
 import XCTest
